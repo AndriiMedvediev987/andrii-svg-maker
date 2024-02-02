@@ -14,5 +14,5 @@ Go to the code page and download ZIP.
 Unpack ZIP file and open index.html in your browser.
 
 ## Useful links
-[Video here]()
-[Repository here]()
+[Video here](https://github.com/AndriiMedvediev987/andrii-svg-maker/assets/144401796/b28ac731-ae7d-48ee-8ba6-fea2a03e4dff)
+[Repository here](https://github.com/AndriiMedvediev987/andrii-svg-maker.git)
