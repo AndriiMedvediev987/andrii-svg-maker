@@ -19,4 +19,4 @@ Unpack ZIP file and open index.html in your browser.
 
 ## Useful links
 [Video here](https://github.com/AndriiMedvediev987/andrii-svg-maker/assets/144401796/b25e47ed-1c1a-433a-8a25-e7f91daec7d9)
-[Repository here]()
+[Repository here](https://github.com/AndriiMedvediev987/andrii-svg-maker.git)
